@@ -1,0 +1,30 @@
+{
+  "name": "pomo-timer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@kalimahapps/vue-icons": "^1.4.1",
+    "@tauri-apps/api": "^1",
+    "howler": "^2.2.4",
+    "node-notifier": "^10.0.1",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "primeicons": "^7.0.0",
+    "primevue": "^3.52.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.0.0"
+  }
+}
