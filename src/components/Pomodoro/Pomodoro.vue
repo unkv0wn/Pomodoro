@@ -77,7 +77,7 @@
             pause.value = false
           }
         }
-        }, 10);
+        }, 1000);
     }
 
     // [ # ] Reset timer 
